@@ -14,9 +14,9 @@
     <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="10.0.0" />
     <PackageVersion Include="Microsoft.Extensions.Hosting.Abstractions" Version="10.0.0" />
     <PackageVersion Include="Microsoft.Extensions.Options" Version="10.0.0" />
-    <PackageVersion Include="Microsoft.Extensions.Logging.Abstractions" Version="10.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Logging.Abstractions" Version="10.0.13" />
     <PackageVersion Include="Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions" Version="10.0.0" />
-    <PackageVersion Include="StackExchange.Redis" Version="2.8.24" />
+    <PackageVersion Include="StackExchange.Redis" Version="3.4.35" />
     <PackageVersion Include="OpenTelemetry.Extensions.Hosting" Version="1.15.3" />
   </ItemGroup>
   <!-- Build / tooling -->
